@@ -1,0 +1,4 @@
+application:
+    service: "ServiceA"
+    profile: "QA"
+    version: "4.1"

@@ -1,0 +1,4 @@
+application:
+    service: "ServiceA"
+    profile: "PROD"
+    version: "3.2"
