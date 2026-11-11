@@ -2,7 +2,3 @@ application:
     service: "ServiceC"
     profile: "DEV"
     version: "8.3"
-
-info:
-    region: "Delhi"
-    description: "ServiceC Description (Updated Again)"

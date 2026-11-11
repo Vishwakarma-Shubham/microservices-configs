@@ -2,7 +2,3 @@ application:
     service: "ServiceB"
     profile: "DEV"
     version: "7.4"
-
-info:
-    region: "Pune"
-    description: "ServiceB Description (Updated Again)"

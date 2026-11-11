@@ -2,7 +2,3 @@ application:
     service: "ServiceA"
     profile: "DEV"
     version: "5.3"
-
-info:
-    region: "Mumbai"
-    description: "ServiceA Description (Updated Again)"
